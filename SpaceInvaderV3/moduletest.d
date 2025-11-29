@@ -1,0 +1,1 @@
+./moduletest.o: ModuleTest.c
